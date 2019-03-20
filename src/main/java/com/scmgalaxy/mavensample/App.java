@@ -2,7 +2,7 @@ package com.scmgalaxy.mavensample;
 
 /**
  * Hello world!
- *
+ * Adding a line for Login CheckIn
  */
 public class App 
 {
