@@ -3,6 +3,7 @@ package com.scmgalaxy.mavensample;
 /**
  * Hello world!
  * Adding a line for Login CheckIn
+ * Adding a Line for Logout CheckIn
  */
 public class App 
 {
